@@ -8,7 +8,7 @@ namespace FredericRP.PlayerCurrency
   public class PlayerCurrencyManager : Singleton<PlayerCurrencyManager>
   {
     [SerializeField]
-    GameEvent CurrencyUpdateEvent;//<string, int>;
+    StringIntGameEvent CurrencyUpdateEvent;//<string, int>;
 
     // TODO : create online currency management
 

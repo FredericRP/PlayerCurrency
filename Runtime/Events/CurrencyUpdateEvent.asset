@@ -9,6 +9,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 37e7538c495106f4eaa4f678a66c636d, type: 3}
+  m_Script: {fileID: 11500000, guid: 9dd6b02bc33e36044ba54cb19209206e, type: 3}
   m_Name: CurrencyUpdateEvent
   m_EditorClassIdentifier: 
+  firstParameter:
+    typedValue: Seed
+    typedReference: {fileID: 11400000, guid: bd02cd6593c7e0a4db6447fa6af2f206, type: 2}
+    valueType: 1
+  secondParameter:
+    typedValue: 50
+    typedReference: {fileID: 0}
+    valueType: 0
