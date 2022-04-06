@@ -1,19 +1,21 @@
 {
-  "name": "com.fredericrp.playercurrency",
-  "version": "1.0.0",
-  "displayName": "FRP Player Currency",
-  "description": "An easy to setup virtual currency manager: load, save and convert between different currencies.",
-  "unity": "2020.1",
-  "unityRelease": "0f1",
-  "dependencies": {
-	  "com.fredericrp.persistentdatasystem": "1.0.0"
- },
- "keywords": [
-    "standard assets"
-  ],
-  "author": {
-    "name": "FredericRP",
-    "email": "unity@FredericRP.com",
-    "url": "https://FredericRP.com"
-  }
+    "name": "com.fredericrp.playercurrency",
+    "version": "1.0.0",
+    "displayName": "FRP Player Currency",
+    "description": "An easy to setup virtual currency manager: load, save and convert between different currencies.",
+    "unity": "2020.1",
+    "keywords": [
+        "standard assets"
+    ],
+    "dependencies": {
+        "com.fredericrp.singleton": "1.3.1",
+        "com.fredericrp.persistentdatasystem": "1.0.1",
+        "com.fredericrp.stringdatalist": "1.0.1",
+        "com.fredericrp.eventhandler": "1.5.2"
+    },
+    "author": {
+        "name": "FredericRP",
+        "email": "unity@FredericRP.com",
+        "url": "https://FredericRP.com"
+    }
 }
