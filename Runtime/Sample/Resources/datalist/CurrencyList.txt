@@ -1,0 +1,4 @@
+cubes
+stars
+gems
+coins

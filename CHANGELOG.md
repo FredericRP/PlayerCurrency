@@ -5,6 +5,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## Unreleased
 
+### Added
+- Ability for the PlayerCurrencyManager to load the CurrencyConversion.asset file to be able to convert from one currency to another.
+
+### Changed
+- MoneyConversion renamed to CurrencyConversion for global consistency
+
 ## [1.0.1] - 2022-04-06
 
 ### Fixed
